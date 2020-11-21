@@ -1,4 +1,4 @@
-# Google Maps Senegal (SN)
+# Google Maps Dakar
 
 <img src='https://github.com/ryreadme/google-maps-sn/blob/master/google-maps-sn/sn_map.png' alt=''>
 
