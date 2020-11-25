@@ -1,18 +1,5 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoicnNvbmtvOTgiLCJhIjoiY2tobzFmNTFqMDFpMzJzcDU1b3JoYXNnciJ9.wvkcR9_KlOdS3n3N_wQbNw';
 
-navigator.geolocation.getCurrentPosition(existingLocation,
-    errorLocation, {
-        enableHighAccuracy : true
-    });
-
-function existingLocation(position) {
-    loadMap([position.coords.longitude, position.coords.latitude])
-}
-
-function errorLocation() {
-    loadMap([17.4988, 14.7228])
-}
-
 function loadMap(center) {
     const map = new mapboxgl.Map({
         container: 'map',
@@ -30,3 +17,5 @@ function loadMap(center) {
 
     map.addControl(directions, 'top-left')
 }
+
+loadMap([-17.467686, 14.716677]);
