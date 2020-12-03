@@ -1,6 +1,6 @@
 # Google Maps Dakar
 
-<img src='https://github.com/ryreadme/google-maps-sn/blob/master/google-maps-sn/sn_map.png' alt=''>
+<img src='https://github.com/ryreadme/google-maps-sn/blob/master/google-maps-sn/sn_map.png' alt='picture of google maps clone of dakar'>
 
 Dakar in December is a busy time for many expats, tourists, business owners, etc. and during my vacation I realized that some locations were available on Google Maps, but others were not. Dakar doesn't have plentiful street signs like New York, Paris, or London. People give directions by using other larger and well-known large places as a reference. Business owners lose money when patrons cannot locate your business and getting lost in a foreign country is 100% not it.
 
